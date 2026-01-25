@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a global notification service project which can be used by any organization to send Email or SMS notifications to its users seamlessly and efficiently without creating their own infrastructure and subscription.<br>👯 I’m looking to collaborate on AI-related projects and DevOps projects.<br>🌱 I’m currently learning Linux, Docker & Jenkins.<br>💬 Ask me about how I spend my day, what projects I have worked on, and my goals.<br>⚡ Fun fact: I became a lead in only 2 years of my career as a Software Engineer and owned an entire service within the first 4 months of my internship.
+🔭 I'm currently working on a global notification service project which can be used by any organization to send Email or SMS notifications to its users seamlessly and efficiently without creating their own infrastructure and subscription.<br>👯 I’m looking to collaborate on AI-related projects and DevOps projects.<br>🌱 I’m currently learning Linux, Docker & Jenkins.<br>💬 Ask me about how I spend my day, what projects I have worked on, and my goals.<br>⚡ Fun fact: I became a lead within 2 years of my career as a Software Engineer and owned an entire service within the first 4 months of my internship.
 
 
 ## 🌐 Socials:
